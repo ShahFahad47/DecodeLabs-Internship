@@ -16,3 +16,6 @@ Understand Continuous Integration and Continuous Deployment.
 
 ## Result
 Successfully created an automated CI/CD workflow using GitHub Actions.
+
+## Workflow File
+.github/workflows/ci.yml
